@@ -3,5 +3,5 @@
 ![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fraw.githubusercontent.com%2FSamhuw8a%2FfloatingList%2Fmain%2Fpyproject.toml&color=d8634c)
  <!--                                                                                                                                            replace "ProjectName" in the line above with the repo name -->
 
-# A Sample  Python  Project
-please replace this with a short description of your project.
+# FloatingList
+A List that allows you to index via floating point index
